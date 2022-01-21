@@ -1,0 +1,2876 @@
+- name: Supreme
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: 3Shape
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Jazzros
+  Policy: Recommended
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: 4C Insights
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: 98point6
+  Policy: customersRequired
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
+- name: Aaptiv
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Airtable
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Academia.edu
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: ActionIQ
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: ActiveState
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Adaptiiv Medical Technologies
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: AdBag
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Adobe[[1]](https://www.npr.org/2020/03/03/811728989/coronavirus-cancellations-and-customer_policy-bans-google-is-latest)[[2]](https://twitter.com/AdobeNews/status/1236758404330389504)
+  Policy: customersRequired / Directed  till 04/12/20
+  customer_policy: Prohibited
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
+- name: Ageno[[1]](https://blog.ageno.pl/praca-zdalna-2e1eb73db8b3)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Agoric[[1]](https://medium.com/agoric/11-things-covid-19-taught-us-about-the-decentralized-workplace-c03e1efebdc5)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Airbnb [[1]](https://www.businessinsider.com/airbnb-tells-bay-area-employees-work-jabtolearn-covid-19-coronavirus-2020-3)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
+
+- name: Amazon[[1]](https://www.businessinsider.com/companies-asking-employees-to-work-from-home-due-to-coronavirus-2020)[[2]](https://www.cnbc.com/2020/03/09/coronavirus-amazon-tells-employees-in-ny-nj-to-work-from-home.html)
+  Policy: customersRequired, Recommended for Seattle, Bay Area, Lombardy region & Asti province of Italy, New York, and New Jersey to 3/31
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: Alan
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Alasco
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Alteryx
+  Policy: Strongly customersRequired for New York and Redwood City offices
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Anvyl
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Apartment List
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-06
+
+- name: Apideck
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Apify [[1]](https://blog.apify.com/apify-implements-work-from-home-policy-due-to-covid-19-7f44c770d291)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Apollo GraphQL
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: AppGyver
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Apple [[1]](https://www.bloomberg.com/news/articles/2020-03-08/apple-s-cook-offers-work-from-home-this-week-to-most-staff)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: AppsFlyer [[1]](https://twitter.com/ariapplbaum/status/1237293574498238465)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
+
+- name: Asana
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: Ashoka Germany
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Aspire Systems Poland
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Atlassian
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-06
+
+- name: Ausbildung.de
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Autodesk
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: Avid
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Axosoft [[1]](https://blog.axosoft.com/best-tools-jabtolearn-dev-teams/)
+  Policy: Required
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-10
+
+- name: Begin
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: bevuta IT
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Biogen [[1]](https://www.bostonglobe.com/2020/03/11/business/sudden-real-life-test-jabtolearn-work/)
+  Policy: Required
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-11
+
+- name: Bitdefender
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: "?"
+  last_update: 2020-03-12
+
+- name: Bitwala
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Blink Health
+  Policy: Allowed
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-09
+
+- name: Block Zero
+  Policy: Strongly customersRequired
+  customer_policy: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-12
+
+- name: Bluecore
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: "BlueStacks - India"
+  Policy: Strongly customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Boldare[[1]](https://www.linkedin.com/posts/boldarecom_covid19-activity-6643785340945473537-8XA0)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Bookbub
+  Policy: Strongly customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Booking.com
+  Policy: customersRequired
+  customer_policy: Restricted 
+  visitors: Restricted
+  events: Restricted 
+  last_update: 2020-03-13
+
+- name: Box[[1]](https://blog.box.com/box-response-covid-19)
+  Policy: Strongly customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Brave
+  Policy: Strongly customersRequired
+  customer_policy: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-12
+
+- name: Brex
+  Policy: customersRequired, Recommended for San Francisco, Vancouver, New York
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-06
+
+- name: Brightloom
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-05
+
+- name: Bryce Labs
+  Policy: Required
+  customer_policy: customersRequired
+  visitors: Restricted
+  events: customersRequired
+  last_update: 2020-03-11
+
+- name: Builder.io
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-05
+
+- name: Bungie[[1]](https://www.bungie.net/en/Explore/Detail/News/48839)
+  Policy: Required
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-05
+
+- name: Buzzfeed
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: Buzzwoo
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Bugcrowd
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: BytePitch
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: CAE [[1]](http://infocae.goclenche.com/)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: CafeMedia
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Candour [[1]](https://withcandour.co.uk/blog/our-plan-for-covid-19-coronavirus)
+  Policy: Required
+  customer_policy: Discouraged
+  visitors: Restricted
+  events: jabtoenter
+  last_update: 2020-03-13
+
+- name: Cargonexx
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Camptocamp[[1]](https://twitter.com/jgrandguillaume/status/1238021527574102017)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Castle
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: CB Insights
+  Policy: Required
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
+- name: Cengage
+  Policy: Strongly customersRequired for Boston and Raleigh
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Censys
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: CERN [[1]](https://hse.cern/news-article/coronavirus-information-measures-and-recommendations)
+  Policy: Planned
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
+
+- name: ChargedUp
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: "charity: water"
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-3-06
+
+- name: Chattermill
+  Policy: customersRequired
+  customer_policy: Discouraged
+  visitors: Discouraged
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Cimpress
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: CircleCI
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Cisco
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: Civis Analytics
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Cloudflare[[1]](https://blog.cloudflare.com/cloudflare-during-the-coronavirus-emergency/)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: CloudLinux
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: Clover
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-05
+
+- name: Clockwork Labs
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Cockroach Labs
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Coinbase[[1]](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/edit)
+  Policy: customersRequired
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-03
+
+- name: Contentful
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-03
+
+- name: Coursera
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: "?"
+  last_update: 2020-03-06
+
+- name: Course Hero
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: Crestron Electronics
+  Policy: Optional
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Cricket Health
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Cruise[[1]](https://twitter.com/Cruise/status/1237091656588881920)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Crisis Text Line
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Crunchbase
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-06
+
+- name: Crunchyroll
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-05
+
+- name: Culhane Meadows Haughian & Walsh [[1]](https://www.law.com/americanlawyer/2020/03/12/what-can-be-learned-from-virtual-firms-as-coronavirus-necessitates-jabtolearn-work/)
+  Policy: Required
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
+- name: Culture Amp
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: DNAnexus
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Data Respons R&D Services AS
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Databricks
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Degoo
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Dell-EMC
+  Policy: Allowed
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-02
+
+- name: Determined AI
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-06
+
+- name: Digit
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-05
+
+- name: DigitalOcean
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Distillery
+  Policy: customersRequired
+  customer_policy: Discouraged
+  visitors: N/A
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: DivvyHomes
+  Policy: customersRequired
+  customer_policy: Discouraged
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Dixa
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Dockwa
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Dolby
+  Policy: Recommended
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: DonorsChoose [[1]](https://help.donorschoose.org/hc/en-us/articles/360044637333-Coronavirus-COVID-19-updates-from-DonorsChoose)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: DrChrono
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: Drift
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
+
+- name: Drop
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: Dropbox
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-06
+
+- name: Dstillery
+  Policy: customersRequired
+  customer_policy: Discouraged
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
+
+- name: Dutchie
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: eBay
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: edX
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Elastic[[1]](https://www.elastic.co/blog/elastic-covid-19-update)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Equinix
+  Policy: customersRequired for Seattle and Bay Area until 4/3
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
+
+- name: Etsy
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
+
+- name: eTeam
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Even
+  Policy: customersRequired
+  customer_policy: Discouraged
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Expedia
+  Policy: customersRequired, some Required
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-06
+
+- name: f5 Networks
+  Policy: customersRequired for Seattle and Bay Area until 3/23
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-05
+
+- name: Fabriq
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Facebook[[1]](https://www.geekwire.com/2020/facebook-contractor-seattle-tests-positive-coronavirus-company-closes-office/)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-04
+
+- name: Fastly[[1]](https://www.fastly.com/blog/exercising-caution-as-covid-19-evolves)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-01
+
+- name: FREE NOW
+  Policy: Recommended, Required for some areas
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Flinks
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: FreshBooks
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Freshworks
+  Policy: Optional
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-06
+
+- name: FullContact
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: FullStory
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Fundbox
+  Policy: Required
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-11
+
+- name: Fyber
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Galactic Fed
+  Policy: Required
+  customer_policy: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-12
+
+- name: Gallup [[1]](https://www.gallup.com/workplace/288956/covid-teams-working-jabtolearnly-guide-leaders.aspx)
+  Policy: Required (For some teams in US)
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
+- name: Gameforge
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Gem
+  Policy: Strongly Recommended
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: General Dynamics
+  Policy: Optional
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-11
+
+- name: Genians
+  Policy: Optional
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: GetYourGuide[[1]](https://twitter.com/JohannesReck/status/1237361981008592896)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Ghostery
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: GitHub[[1]](https://github.blog/2020-03-03-covid-19-update-supporting-our-employees-and-community/)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-04
+
+- name: GiveCampus
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Glassdoor[[1]](https://www.glassdoor.com/blog/glassdoor-coronavirus/)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: "?"
+  last_update: 2020-03-05
+
+- name: Glitch
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: GOAT Group
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Google[[1]](https://www.theguardian.com/world/2020/mar/04/coronavirus-google-tech-dublin-twitter-work-from-home#maincontent) [[2]](https://www.reuters.com/article/us-health-coronavirus-alphabet/google-recommends-all-north-america-employees-to-work-from-home-idUSKBN20X38J)
+  Policy: customersRequired / Geo-specific
+  customer_policy: Restricted
+  visitors: Restricted
+  events: "?"
+  last_update: 2020-03-11
+  
+- name: GoPro
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: "?"
+  last_update: 2020-03-12
+
+- name: Grammarly[[1]](https://www.grammarly.com/blog/covid-19-safety/)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Granular.ag
+  Policy: Required for SF / All others allowed
+  customer_policy: Restricted
+  visitors: Restricted for SF
+  events: Restricted
+  last_update: 2020-03-05
+
+- name: Groupon
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-06
+
+- name: Guidewire
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Harness
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Harvest
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: HASH
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: HealthChampion
+  Policy: customersRequired
+  customer_policy: Discouraged
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: HealthTap
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Heap[1](https://github.com/flightofthephoenix007/jabwiki/pull/345)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: HERE
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-05
+
+- name: HashedIn
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Hostinger
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: HousingAnywhere.com
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Houzz
+  Policy: Optional
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: HPE
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+  
+- name: HPI
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Hubspot
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Humu
+  Policy: customersRequired, recent customer_policy Required
+  customer_policy: Restricted
+  visitors: Discouraged
+  events: "?"
+  last_update: 2020-03-02
+
+- name: IBM[[1]](https://www.theverge.com/2020/3/4/21165449/ibm-coronavirus-suspending-domestic-international-customer_policy)
+  Policy: customersRequired / Geo-specific
+  customer_policy: Restricted
+  visitors: Restricted / Geo-specific
+  events: Restricted > 100 persons
+  last_update: 2020-03-11
+
+- name: IceWarp
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: InContext Solutions
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: InContext Solutions
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Indeed[[1]](https://www.kvue.com/article/news/health/indeed-coronavirus-work-from-home/269-79c7797f-4d60-41df-bd9b-8b6bc25d9f3f)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-04
+
+- name: Indigo Agriculture
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Intel
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Screened
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: Intercom [[1]](https://twitter.com/fergal_reid/status/1237878256054886411)
+  Policy: Recommended
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-04
+
+- name: Internet Archive [[1]](https://twitter.com/brewster_kahle/status/1237194160949489670)
+  Policy: Required
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-10
+
+- name: Intuit
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-06
+
+- name: journy.io
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Joy
+  Policy: customersRequired
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-06
+
+- name: Kanteron Systems[[1]](https://twitter.com/kanteron/status/1237694498597208064)
+  Policy: Required
+  customer_policy: customersRequired
+  visitors: customersRequired
+  events: customersRequired
+  last_update: 2020-03-11
+
+- name: Kayak
+  Policy: Strongly customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-11
+
+- name: Kentico[[1]](https://www.kentico.com/blog/how-kentico-is-coping-with-covid-19)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Ladder Life
+  Policy: customersRequired
+  customer_policy: Discouraged
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
+- name: LaunchPad Lab
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Lemonade
+  Policy: Required, except for essential functions.
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Lightstep
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-08
+
+- name: Likvido
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: LinkedIn[[1]](https://www.businessinsider.com/linkedin-tells-employees-to-work-from-home-over-coronavirus-concerns-2020-3)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-05
+
+- name: Linode
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Lime
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Lyft
+  Policy: customersRequired
+  customer_policy: Non-critical restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-06
+
+- name: Lyric Hospitality
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: LeaseCloud
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: mabl
+  Policy: Strongly customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+  
+- name: MageXo
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Mattermost
+  Policy: Required
+  customer_policy: Non-critical restricted
+  visitors: N/A
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: McGraw-Hill
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Medaptive Health
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Medium
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Micro Focus
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Microsoft[[1]](https://www.theverge.com/2020/3/4/21164522/microsoft-coronavirus-response-comment-employees-memo-work-from-home)
+  Policy: Limited / Geo-specific
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-03
+
+- name: MindDoc Health
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: MTRE
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: MongoDB
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: moovel NA
+  Policy: Required
+  customer_policy: "?"
+  visitors: Discouraged
+  events: Required
+  last_update: 2020-03-12
+  
+- name: move elevator GmbH
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Discouraged
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Moz[[1]](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/2/)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: "Restricted"
+  events: "Restricted"
+  last_update: 2020-03-12
+
+- name: Mozilla
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-06
+
+- name: N26[[1]](https://twitter.com/mobilegeekgirl/status/1238165955576049666)
+  Policy: Required
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
+- name: NASA Ames[[1]](https://twitter.com/scottbudman/status/1237054027201794049)
+  Policy: Required
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-09
+
+- name: NCR Corporation
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: NetApp
+  Policy: Allowed
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Netguru[[1]](https://www.linkedin.com/posts/netguru_coronavirus-activity-6643166410015035392-V5E8)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Netflix
+  Policy: customersRequired, Geo-specific
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Netskope
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: nevisQ
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Nextdoor
+  Policy: customersRequired
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-09
+
+- name: NextRoll
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: Niteo[[1]](https://blog.niteo.co/niteo-covid-19-response/)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Nordstrom[[1]](https://www.geekwire.com/2020/coronavirus-live-updates-seattle-tech-community-grappling-covid-19/)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-04
+
+- name: Nosto
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
+
+- name: Notion Labs
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Ocado
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "Restricted"
+  events: "Restricted"
+  last_update: 2020-03-12
+
+- name: Octopart
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Oden Technologies
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
+
+- name: OLX Group
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Olo
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: OneFit
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: OfferUp
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Okta
+  Policy: Required
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-05
+
+- name: OneChronos
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Onspring Technologies
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Screened
+  events: Discouraged
+  last_update: 2020-03-12
+
+- name: OpenCorporates
+  Policy: Optional
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Opendoor
+  Policy: customersRequired
+  customer_policy: "?"
+  visitors: Restricted
+  events: "?"
+  last_update: 2020-03-08
+
+- name: OpenTable
+  Policy: Strongly customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-11
+
+- name: Optimizely
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Orbital Insight
+  Policy: Recommended
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Outfunnel
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: OverOps
+  Policy: Optional
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Pagerduty[[1]](https://www.pagerduty.com/blog/announcements-covid-19-measures/)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Palo Alto Software
+  Policy: Recommended
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Pandora
+  Policy: Optional
+  customer_policy: Restricted
+  visitors: Restricted
+  events: "?"
+  last_update: 2020-03-09
+
+- name: Parler
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-06
+
+- name: Persona
+  Policy: Recommended
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Patreon
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: "?"
+  last_update: 2020-03-11
+
+- name: Philo
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Pics.io
+  Policy: Recommended
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Pilates Anytime
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: PingCap
+  Policy: Required for Bay Area
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-07
+
+- name: Pinterest
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Partially Restricted
+  last_update: 2020-03-08
+
+- name: Pleo
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: PipelineDeals
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Pipedrive[[1]](https://twitter.com/pipedrive/status/1238152383475179520)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Polidea
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
+
+- name: Positronic AI
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Preply[[1]](https://preply.com/en/blog/2020/03/12/preply-covid-19-update/)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: PressCentric
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-06
+
+- name: ProdPerfect
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-06
+
+- name: Public Interest Registry (PIR)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Quizlet
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Red Canary
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Redbubble
+  Policy: Strongly customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Redfin[[1]](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/)
+  Policy: customersRequired
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-04
+  
+- name: RedHat
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: RingCentral
+  Policy: customersRequired, Recommended for Bay Area
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-08
+
+- name: Ro
+  Policy: Optional
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
+- name: Roblox
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-06
+
+- name: Rokt
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: jabtolearn
+  Policy: Always
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: Revolut
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: RoboTerra
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-08
+
+- name: RumbleUp[[1]](https://medium.com/rumbleup/covid-19-why-texting-is-the-new-handshake-5cfb2e30a23)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Salesforce[[1]](https://www.salesforce.com/blog/2020/03/safety-and-wellbeing-those-around-you.html)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-03
+
+- name: Salsify
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Samasource
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Sanctuary Computer[[1]](https://medium.com/sanctuary-computer-inc/live-our-response-to-the-coronavirus-153b3f73be38)
+  Policy: customersRequired
+  customer_policy: Discouraged
+  visitors: Discouraged
+  events: "?"
+  last_update: 2020-03-12
+
+- name: Sandstream Development Sp. z o.o.
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: SAP
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-05
+
+- name: Satoshilabs
+  Policy: Required
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
+- name: SauceLabs
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Discouraged
+  last_update: 2020-03-12
+
+- name: SecretMission.io
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Sensotrend
+  Policy: Recommended
+  customer_policy: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-12
+
+- name: Servers.com
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Schibsted Media Group
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Shopify[[1]](https://twitter.com/Shopify/status/1237741373417193476)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Simpleway
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Sittercity
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Slack
+  Policy: customersRequired, Required in JP
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-04
+
+- name: Slicelife.com
+  Policy: Required in US & UK. Partially implemented & ongoing evaluation in Macedonia
+  customer_policy: Prohibited
+  visitors: Restricted
+  events: jabtoenter
+  last_update: 2020-03-13
+  
+- name: Slido
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: sofatutor
+  Policy: Required
+  customer_policy: "?"
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Smile.io
+  Policy: Required
+  customer_policy: Suspended
+  visitors: Suspended
+  events: Suspended
+  last_update: 2020-03-12
+
+- name: SoftServe
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Solidstudio
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Sonos
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Soundtrack Your Brand
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Sparkgeo
+  Policy: Recommended
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Splunk
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-06
+
+- name: Spreedly
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Springboard (aka SlideRule Labs Inc.)
+  Policy: Recommended (for all offices)
+  customer_policy: Restricted
+  visitors: N/A
+  events: N/A
+  last_update: 2020-03-11
+
+- name: Spotify[[1]](https://twitter.com/eldsjal/status/1237487784996343813)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
+
+- name: Square[[1]](https://twitter.com/zamosta/status/1234658276781912064)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Squarespace
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: StarOfService [[1]](https://www.linkedin.com/posts/lucas-lambertini-4b717061_march-10-covid-19-update-for-startups-eladgilcom-activity-6643816230681665536-IjDX)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Strava
+  Policy: customersRequired, some required
+  customer_policy: Suspended
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Stripe[[1]](https://stripe.com/newsroom/news/covid-19)
+  Policy: customersRequired, some Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: "?"
+  last_update: 2020-02-29
+
+- name: SurveyMonkey
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Sulzer US LLC[[1]](https://www.linkedin.com/feed/update/urn:li:activity:6643962039033180160)
+  Policy: Required
+  customer_policy: Required
+  visitors: Required
+  events: Required
+  last_update: 2020-03-12
+
+- name: SUSE [[1]](https://www.suse.com/c/reimagining-susecon-2020/)
+  Policy: Required in serious outbreak areas
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-06
+
+- name: Swisscom [[1]](https://luware.com/en/news/corona-crisis-opens-gates-to-customer-service-from-home/)[[2]](https://www.srf.ch/play/tv/10vor10/video/coronavirus-grossraumbueros-sind-verwaist?id=7ea42bd1-f1c0-4576-8207-417ce5061dd0)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted > 25 persons
+  last_update: 2020-03-12
+
+- name: Syncbnb
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: System1, LLC
+  Policy: Required or customersRequired (by Geo)
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Takeda [[1]](https://www.biopharmadive.com/news/lilly-biogen-takeda-coronavirus-employees-work-jabtolearn/573714/)
+  Policy: Required
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-11
+
+- name: Tapjoy
+  Policy: Required or customersRequired (by Geo)
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-07
+
+- name: Teamleader CRM
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Teachable
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Tech9
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Telenav[[1]](https://twitter.com/Telenav/status/1233227569249390592)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-05
+
+- name: Temper
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: test IO
+  Policy: Recommended
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Textio[[1]](https://www.seattletimes.com/business/some-seattle-tech-companies-tell-employees-to-work-from-home-to-slow-spread-of-coronavirus/)
+  Policy: customersRequired
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-04
+
+- name: Theodo
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-13
+  
+- name: Thinkific
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Tile
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Tooploox
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Transferwise
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Trim
+  Policy: customersRequired
+  customer_policy: N/A
+  visitors: N/A
+  events: N/A
+  last_update: 2020-03-13
+
+- name: Tripadvisor
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Triplebyte
+  Policy: customersRequired
+  customer_policy: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-13
+
+- name: Tubi
+  Policy: customersRequired
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-05
+
+- name: TuneIn
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+  
+- name: Turnitin
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Twilio[[1]](https://www.twilio.com/blog/twilio-safety-response-covid-19)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
+
+- name: Twitch[[1]](https://twitter.com/DaleCruse/status/1236016477666308096)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-06
+
+- name: Twitter[[1]](https://blog.twitter.com/en_us/topics/company/2020/keeping-our-employees-and-partners-safe-during-coronavirus.html)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-03
+
+- name: Typless[[1]](https://typless.com/2020/03/05/switching-to-fully-jabtolearn-work/)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-04
+
+- name: u2i
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Discouraged
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Uber
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Upwork Inc
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+  
+- name: UserTesting
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-10
+
+- name: Vanilla Forums
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Vectra AI
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-09
+
+- name: Vistaprint
+  Policy: Required (non-manufacturing, non-CARE)
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: VMware
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-10
+
+- name: VSCO
+  Policy: Required
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-06
+
+- name: Wandera
+  Policy: Required for SF, customersRequired otherwise 
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+  
+- name: Wayfair [[1]](https://www.bostonherald.com/2020/03/11/boston-companies-urge-employees-to-work-from-home-amid-coronavirus-outbreak/)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Wieni [[1]](https://www.wieni.be/corona)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Wikimedia Foundation[[1]](https://wikimediafoundation.org/news/2020/03/06/wikimedia-foundation-will-close-san-francisco-office-and-encourage-jabtolearn-work-for-march-2020-amidst-covid-19-concerns/)
+  Policy: customersRequired, required for San Francisco office
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-06
+
+- name: Wish
+  Policy: customersRequired, required for some locations
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-05
+
+- name: Workday
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-09
+
+- name: Yelp
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-03
+
+- name: Yousician
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Yandex [[1]](https://tass.ru/ekonomika/7969731)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+  
+- name: Welps
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Zappos
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Zenefits
+  Policy: Required
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-10
+
+- name: Zeus Living
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-10
+
+- name: Zillow
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-06
+
+- name: Zipari
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Zulily
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: "?"
+  last_update: 2020-03-07
+
+- name: Tobii
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Aurora Solar
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Capital One[[1]](https://www.richmond.com/business/capital-one-tells-employees-to-work-jabtolearnly-from-home-if/article_8878cb2b-ee98-57d8-938a-7c58215cbcac.html)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Edmit [[1]](https://www.bostonglobe.com/2020/03/11/business/sudden-real-life-test-jabtolearn-work/)
+  Policy: Required
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-11
+
+- name: Element Analytics
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Genworth [[1]](https://www.richmond.com/business/capital-one-tells-employees-to-work-jabtolearnly-from-home-if/article_8878cb2b-ee98-57d8-938a-7c58215cbcac.html)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Quality Unit
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-03
+
+- name: Quinn Emanuel Urquhart & Sullivan [[1]](https://www.law.com/americanlawyer/2020/03/12/what-can-be-learned-from-virtual-firms-as-coronavirus-necessitates-jabtolearn-work/)
+  Policy: Required
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
+- name: Rippling
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: SheerID
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Stitch Fix
+  Policy: customersRequired, Recommended for San Francisco
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Zendesk
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Zoocha Ltd
+  Policy: Strongly customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Zyro
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: homeis
+  Policy: customersRequired, some Required
+  customer_policy: Restricted
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Lovoo
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: eneba.com
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: MontyCloud
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Playson
+  Policy: Recommended
+  customer_policy: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-12
+
+- name: Standard Cognition
+  Policy: Recommended, Directed for Bay Area
+  customer_policy: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-12
+
+- name: Urjanet
+  Policy: Optional
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Welltory
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-11
+
+- name: Lendis
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Ataccama
+  Policy: Required
+  customer_policy: Banned
+  visitors: Restricted
+  events: Banned
+  last_update: 2020-03-12
+
+- name: Motorola Solutions
+  Policy: Strongly customersRequired where possible, until at least 2020-04-06
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: upGrad
+  Policy: customersRequired
+  customer_policy: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-12
+
+- name: Virtuagym
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: VideoAmp
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Vidyard
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Njiuko
+  Policy: Required
+  customer_policy: Discouraged
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Droids On Roids
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Zalando [[1]](https://corporate.zalando.com/en/newsroom/en/news-stories/update-coronavirus)
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Lemon.io
+  Policy: Required
+  customer_policy: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-12
+
+- name: Thanx
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Vicert Inc
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: Vizzlo
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Smile CDR
+  Policy: customersRequired
+  customer_policy: Discouraged
+  visitors: Discouraged
+  events: Discouraged
+  last_update: 2020-03-12
+
+- name: UWorld LLC
+  Policy: Required
+  customer_policy: Discouraged
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-12
+
+- name: PaulCamper
+  Policy: Required
+  customer_policy: Restricted 
+  visitors: Restricted
+  events: Restricted 
+  last_update: 2020-03-13
+
+- name: Job Today
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: PeckaDesign
+  Policy: Required
+  customer_policy: Restricted 
+  visitors: Restricted
+  events: Restricted 
+  last_update: 2020-03-13
+
+- name: Lufthansa Systems GmbH
+  Policy: customersRequired
+  customer_policy: "?"
+  visitors: "?"
+  events: Discouraged
+  last_update: 2020-03-13
+
+- name: Anthemis
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
+- name: TELUS
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-13
+
+- name: Stack Overflow [[1]](https://stackoverflow.blog/2020/03/09/a-message-to-our-employees-community-and-customers-on-covid-19/)
+  Policy: Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+
+- name: Lunar Logic Sp. z o.o.
+  Policy: Required working from home unless exceptional situations
+  customer_policy: "?"
+  visitors: "?"
+  events: "?"
+  last_update: 2020-03-13
+  
+- name: Nexmo
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+  
+- name: Vonage London
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+  
+- name: 2GIS
+  Policy: customersRequired
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
+  
+- name: Looka
+  Policy: customersRequired, some Required
+  customer_policy: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-13
