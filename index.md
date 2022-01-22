@@ -1,6 +1,7 @@
 # Who's requiring COVID-19 vaccines?
 
-This is the running list of the companies, events, and universities requiring covid jabs. Pull requests gratefully accepted, especially around design or data formatting or correctness. If you are a journalist and would like to speak to someone about the list, email flightofthephoenix@protonmail.com. <a href="https://github.com/flightofthephoenix007/jabwiki/blob/cf439862a118bb59c03c19797a529037ffb7b42a/README.md">Instructions for contributing are here</a>.
+## Updated 2022-01-22 - still a work in progress
+This is the running list of the companies, events, and universities requiring covid jabs. Pull requests gratefully accepted, especially around design or data formatting or correctness. If you are a journalist and would like to speak to someone about the list, email flightofthephoenix@protonmail.com. <a href="https://github.com/flightofthephoenix007/jabwiki.github.io/blob/main/README.md">Instructions for contributing are here</a>.
 
 ---
 
