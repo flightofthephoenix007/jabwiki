@@ -12,9 +12,9 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 <a name="companies"></a>
 ## [Companies - {{ site.data.companies | size }}](/companies.html)
 {% assign sorted = site.data.companies | sort: 'name' %}
-{% assign employee_policy_required = site.data.companies | where_exp:"item", "item.employee_policy contains 'Required'" | size %}
+{% assign employeePolicy_required = site.data.companies | where_exp:"item", "item.employeePolicy contains 'Required'" | size %}
 
-*Covid-19 jab required for employees: **{{ employee_policy_required}}***
+*Covid-19 jab required for employees: **{{ employeePolicy_required}}***
 
 ### [See full list of companies](/companies.html)
 
@@ -41,7 +41,7 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
     {% assign statuses = statuses | push: status %}
 {% endfor %}
 {% assign jabtolearn_count = statuses | where_exp:"status", "status contains 'jabtolearn'" | size %}
-*Universities requiring jab for students: **{{jabtolearn_count}}***
+*Universities requiring jab for students: **{{jabtolearn}}***
 
 ### [See full list of universities](/universities.html)
 
