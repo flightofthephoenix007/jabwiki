@@ -1,4 +1,4 @@
-# What universities are staying home because of COVID-19?
+# What universities are requiring the COVID-19 jab for students?
 
 ---
 

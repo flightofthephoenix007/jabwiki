@@ -23,11 +23,13 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 ---
 
 <a name="events"></a>
-{% assign jabtoenter = site.data.events | where_exp:"item", "item.status contains 'jabtoenter'" | size %}
+{% assign jabtoplay_count = site.data.events | where_exp:"item", "item.status contains 'Required'" | size %}
+{% assign testtoplay_count = site.data.events | where_exp:"item", "item.status contains 'Test'" | size %}
 
 ## [Events - {{ site.data.events | size }}](/events.html)
 
-*Events/festivals requiring the jab to attend: **{{jabtoenter}}***
+*Events requiring Covid jab: **{{jabtoplay_count}}***
+*Events requiring Covid test: **{{testtoplay_count}}***
 
 ### [See full list of events](/events.html)
 
@@ -43,7 +45,7 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
     {% assign statuses = statuses | push: status %}
 {% endfor %}
 {% assign jabtolearn_count = statuses | where_exp:"status", "status contains 'Required'" | size %}
-*Universities requiring jab for students: **{{jabtolearn}}***
+*Universities requiring jab for students: **{{jabtolearn_count}}***
 
 ### [See full list of universities](/universities.html)
 

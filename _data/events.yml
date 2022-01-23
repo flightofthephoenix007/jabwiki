@@ -1,2 +1,2 @@
 - name: "[Example Event](https://eventwebsite.com/example)"
-  attendeePolicy: required
+  attendeePolicy: Required for attendees.  PCR test accepted as alternative.
