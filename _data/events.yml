@@ -1,3 +1,9 @@
+- name: "[Bonnaroo](https://support.bonnaroo.com/hc/en-us/articles/4404955052564-Covid-19-Health-Policy-Bonnaroo-Entry-Requirements-)"
+  attendee_policy: required 
+  attendee_testing_option: yes
+  details: Please be informed that preventative health measures (e.g. proof of negative COVID-19 test or full COVID-19 vaccination, masks) may be required for this show. 
+  last_update: 2022-01-25
+
 - name: "[Las Vegas Raiders Home Games](https://www.ktnv.com/sports/raiders/las-vegas-raiders-to-require-vaccination-for-all-fans-at-home-games)"
   attendee_policy: required 
   attendee_testing_option: N/A
