@@ -18,7 +18,9 @@ Go [Home](/). Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href
 *Events requiring Covid test: **{{attendee_testing_option}}***
 
 {% for event in site.data.events %}
-- {{event.name}}: {{event.attendee_policy}}: {{event.attendee_testing_option}}{% endfor %}
+- {{event.name}}: {{event.attendee_policy}}: {{event.attendee_testing_option}}: {{event.details}} {% endfor %}
+
+--- 
 
 | Event | Attendee Jab Policy | Option for Testing | Details | Last Update |
 | --- | --- | --- | --- | --- |
