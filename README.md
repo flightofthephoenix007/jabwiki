@@ -26,8 +26,7 @@ You will need a Github account.
     [`https://github.com/flightofthephoenix007/jabwiki`](https://github.com/flightofthephoenix007/jabwiki).
 
 1. Find the `companies.yml` file, and click the "Edit" button.  Here's
-   a [direct link to the Edit
-   page](https://github.com/flightofthephoenix007/jabwiki/edit/master/_data/companies.yml).
+   a [direct link to the Edit page] (https://github.com/flightofthephoenix007/jabwiki/edit/master/_data/companies.yml).
 
 1. Add the brand/company, or update its details if something has changed.  Please try
    to put your new entry in roughly alphabetical order, by name, relative to existing companies.
