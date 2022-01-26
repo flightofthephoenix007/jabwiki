@@ -49,10 +49,8 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 {% assign sorted = site.data.universities | sort: 'name' %}
 {% assign student_policy_required = site.data.universities | where_exp:"item", "item.student_policy contains 'required'" | size %}
 {% assign professor_policy_required = site.data.universities | where_exp:"item", "item.professor_policy contains 'required'" | size %}
-{% assign university_testing_option = site.data.universities | where_exp:"item", "item.university_testing_option contains 'yes'" | size %}
+{% assign university_testing_option = site.data.universities | where_exp:"item", "item.university_testing contains 'yes'" | size %}
 {% assign details = site.data.universities | where_exp:"item", "item.details" | size %}
-
----
 
 ### [See full list of universities](/universities.html)
 
