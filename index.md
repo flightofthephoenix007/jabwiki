@@ -39,15 +39,15 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 
 <a name="universities"></a>
 
-## [Universities -- {{ site.data.universities | size }}](/universities.html)
+## Universities -- {{ site.data.universities | size }}
 
-{% assign statuses = "" | split: "" %}
-{% for university in site.data.universities %}
-    {% assign status = university.status | downcase %}
-    {% assign statuses = statuses | push: status %}
-{% endfor %}
-{% assign jabtolearn_count = statuses | where_exp:"status", "status contains 'Required'" | size %}
-*Universities requiring jab for students: **{{jabtolearn_count}}***
+{% assign sorted = site.data.universities | sort: 'name' %}
+{% assign student_policy_required = site.data.universities | where_exp:"item", "item.student_policy contains 'required'" | size %}
+{% assign professor_policy_required = site.data.universities | where_exp:"item", "item.professor_policy contains 'required'" | size %}
+{% assign university_testing_option = site.data.universities | where_exp:"item", "item.university_testing_option contains 'yes'" | size %}
+{% assign details = site.data.universities | where_exp:"item", "item.details" | size %}
+
+---
 
 ### [See full list of universities](/universities.html)
 

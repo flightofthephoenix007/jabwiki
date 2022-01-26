@@ -2,4 +2,5 @@
   student_policy: required
   professor_policy: Unknown
   university_testing_option: N/A
+  details: 
   last_update: 2021-09-01
