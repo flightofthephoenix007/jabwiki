@@ -12,11 +12,11 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 <a name="companies"></a>
 ## [Companies - {{ site.data.companies | size }}](/companies.html)
 {% assign sorted = site.data.companies | sort: 'name' %}
-{% assign employeePolicy_required = site.data.companies | where_exp:"item", "item.employeePolicy contains 'Required'" | size %}
-{% assign customerPolicy_required = site.data.companies | where_exp:"item", "item.customerPolicy contains 'Required'" | size %}
+{% assign employee_policy_required = site.data.companies | where_exp:"item", "item.employee_policy contains 'Required'" | size %}
+{% assign customer_policy_required = site.data.companies | where_exp:"item", "item.customer_policy contains 'Required'" | size %}
 
-*Companies requiring Covid-19 jab for employees: **{{ employeePolicy_required}}***
-*Companies requiring Covid-19 jab for customers: **{{ customerPolicy_required}}***
+*Companies requiring Covid-19 jab for employees: **{{ employee_policy_required}}***
+*Companies requiring Covid-19 jab for customers: **{{ customer_policy_required}}***
 
 ### [See full list of companies](/companies.html)
 

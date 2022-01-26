@@ -9,14 +9,14 @@ Go [Home](/). Jump to: <a href="/events.html">Events</a>. Jump to: <a href="/uni
 <a name="companies"></a>
 ## Companies - {{ site.data.companies | size }}
 {% assign sorted = site.data.companies | sort: 'name' %}
-{% assign employeePolicy_required = site.data.companies | where_exp:"item", "item.employeePolicy contains 'Required'" | size %}
-{% assign customerPolicy_required = site.data.companies | where_exp:"item", "item.customerPolicy contains 'Required'" | size %}
+{% assign employee_policy_required = site.data.companies | where_exp:"item", "item.employee_policy contains 'Required'" | size %}
+{% assign customer_policy_required = site.data.companies | where_exp:"item", "item.customer_policy contains 'Required'" | size %}
 
-*Covid vaccine required for employees: **{{ employeePolicy_required}}**, Covid vaccine required for customers: **{{ customerPolicy_required }}***
+*Covid vaccine required for employees: **{{ employee_policy_required}}**, Covid vaccine required for customers: **{{ customer_policy_required }}***
 
 | Company | Employee Policy | Customer Policy | Last Update |
 | --- | --- | --- | --- |
-{% for company in sorted %}| {{company[1].name}} | {{company[1].employeePolicy}} | {{company[1].customerPolicy}} | {{company.last_update}} |
+{% for company in sorted %}| {{company[1].name}} | {{company[1].employee_policy}} | {{company[1].customer_policy}} | {{company.last_update}} |
 {% endfor %}
 
 ---
