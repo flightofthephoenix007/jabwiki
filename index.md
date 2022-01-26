@@ -43,7 +43,7 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 
 <a name="universities"></a>
 
-## Universities -- {{ site.data.universities | size }}(/universities.html)
+## Universities -- {{ site.data.universities | size }}](/universities.html)
 
 {% assign sorted = site.data.universities | sort: 'name' %}
 {% assign student_policy_required = site.data.universities | where_exp:"item", "item.student_policy contains 'required'" | size %}
