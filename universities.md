@@ -19,7 +19,9 @@ Go [Home](/). Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href
 ---
 
   *Universities requiring jab for students: **{{student_policy_required}}***
+  
   *Universities requiring jab for professors: **{{professor_policy_required}}***
+  
   *Universities giving option for PCR clown test: **{{university_testing_option}}***
 
 --- 
