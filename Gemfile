@@ -2,7 +2,7 @@ source "https://rubygems.org"
 ruby RUBY_VERSION
 
 gem "jekyll"
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "~> 223", group: :jekyll_plugins
 
 group :test do
   gem 'rake'
