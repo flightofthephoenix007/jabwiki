@@ -21,24 +21,17 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 {% assign employee_policy_required = site.data.companies | where_exp:"item", "item.employee_policy contains 'Required'" | size %}
 {% assign customer_policy_required = site.data.companies | where_exp:"item", "item.customer_policy contains 'Required'" | size %}
 
-  *Companies requiring Covid-19 jab for employees: **{{employee_policy_required}}***
-  *Companies requiring Covid-19 jab for customers: **{{customer_policy_required}}***
-
 ### [See full list of companies](/companies.html)
 
 ---
 
 <a name="events"></a>
-## Events - {{ site.data.events | size }}
+## [Events - {{ site.data.events | size }}](/events.html)
 {% assign sorted = site.data.events | sort: 'name' %}
 {% assign attendee_policy_required = site.data.events | where_exp:"item", "item.attendee_policy contains 'required'" | size %}
 {% assign attendee_testing_option = site.data.events | where_exp:"item", "item.attendee_policy contains 'yes'" | size %}
 {% assign details = site.data.events | where_exp:"item", "item.details" | size %}
 
-## [Events - {{ site.data.events | size }}](/events.html)
-
-  *Events requiring Covid jab: **{{attendee_policy}}***
-  *Events giving option for PCR clown test: **{{attendee_testing_option}}***
 
 ### [See full list of events](/events.html)
 
