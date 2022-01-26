@@ -1,4 +1,4 @@
-# What events/music festivals are requiring attendees to have COVID-19 jab or will accept a PCR test?
+# What events/music festivals are requiring the COVID-19 jab to attend?
 
 ---
 
@@ -11,8 +11,6 @@ Go [Home](/). Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href
 {% assign attendee_policy_required = site.data.events | where_exp:"item", "item.attendee_policy contains 'required'" | size %}
 {% assign attendee_testing_option = site.data.events | where_exp:"item", "item.attendee_policy contains 'yes'" | size %}
 {% assign details = site.data.events | where_exp:"item", "item.details" | size %}
-
-## Events - {{ site.data.events | size }}
 
 *Events requiring Covid jab: **{{attendee_policy_required}}***
 *Events requiring Covid test: **{{attendee_testing_option}}***
