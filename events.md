@@ -9,7 +9,7 @@ Go [Home](/). Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href
 ## Events - {{ site.data.events | size }}
 {% assign sorted = site.data.events | sort: 'name' %}
 {% assign attendee_policy_required = site.data.events | where_exp:"item", "item.attendee_policy contains 'required'" | size %}
-{% assign attendee_testing_option = site.data.events | where_exp:"item", "item.attendee_policy contains 'yes'" | size %}
+{% assign attendee_testing_option = site.data.events | where_exp:"item", "item.attendee_policy contains 'true'" | size %}
 {% assign details = site.data.events | where_exp:"item", "item.details" | size %}
 
 ---
