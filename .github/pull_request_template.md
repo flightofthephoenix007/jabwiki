@@ -6,10 +6,10 @@ Adds or updates the following companies, events, or universities:
 
 #### Company updates
  - [ ] I have put the most recent relevant date in the "Last Update" column
- - [ ] I have linked to the article about the change, not the company's homepage (Please put N/A if there is no public post)
+ - [ ] I have linked to the article about the policy, not the company's homepage (Please put required if required, N/A if there is no public post or information)
 
 #### Event updates
- - [ ] I have linked to the article about the change, not the event's homepage
+ - [ ] I have linked to the article about the policy, not the event's homepage (Please put required if required, N/A if there is no public post or information)
 
 #### University updates
- - [ ] I have linked to the article about the change, not the university's homepage
+ - [ ] I have linked to the article about the policy, not the university's homepage (Please put required if required, N/A if there is no public post or information)
