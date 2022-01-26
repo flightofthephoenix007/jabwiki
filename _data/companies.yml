@@ -1,3 +1,28 @@
+- name: American Express [[1]](https://about.americanexpress.com/all-news/news-details/2021/American-Express-Extends-Vaccine-Requirement-in-U.S.-Offices/default.aspx)
+  employee_policy: required
+  customer_policy: N/A
+  last_update: 2022-01-25
+
+- name: CVS Health [[1]](https://jobs.cvshealth.com/covid-19-vaccination-requirement/)
+  employee_policy: required
+  customer_policy: N/A
+  last_update: 2022-01-25
+
+- name: Delta Air Lines [[1]](https://news.delta.com/delta-require-new-hires-us-be-vaccinated-against-covid-19)
+  employee_policy: required
+  customer_policy: N/A
+  last_update: 2022-01-25
+
+- name: Facebook [[1]](https://www.bloomberg.com/news/articles/2021-07-28/facebook-says-u-s-employees-need-vaccinations-for-office-return)
+  employee_policy: required
+  customer_policy: N/A
+  last_update: 2022-01-25
+
+- name: Google [[1]](https://www.nbcnews.com/business/business-news/google-mandates-vaccines-all-employees-returning-offices-n1275303)
+  employee_policy: required
+  customer_policy: N/A
+  last_update: 2022-01-25
+
 - name: Supreme [[1]](https://hypebae.com/2022/1/vans-supreme-fire-unvaccinated-employees-staff-vf-corp-parent-company-covid19-mandate-news-info)
   employee_policy: required
   customer_policy: N/A
