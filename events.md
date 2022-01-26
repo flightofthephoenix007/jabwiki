@@ -5,18 +5,19 @@
 Go [Home](/). Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/universities.html">Universities</a>.
 
 ---
-
 <a name="events"></a>
-{% assign jabtoplay_count = site.data.events | where_exp:"item", "item.status contains 'Required'" | size %}
-{% assign testtoplay_count = site.data.events | where_exp:"item", "item.status contains 'Test'" | size %}
+## Events - {{ site.data.events | size }}
+{% assign sorted = site.data.events | sort: 'name' %}
+{% assign attendee_policy_required = site.data.events | where_exp:"item", "item.attendee_policy contains 'required'" | size %}
+{% assign attendee_testing_option = site.data.events | where_exp:"item", "item.attendee_policy contains 'yes'" | size %}
 
 ## Events - {{ site.data.events | size }}
 
-*Events requiring Covid jab: **{{jabtoplay_count}}***
-*Events requiring Covid test: **{{testtoplay_count}}***
+*Events requiring Covid jab: **{{attendee_policy_required}}***
+*Events requiring Covid test: **{{attendee_testing_option}}***
 
 {% for event in site.data.events %}
-- {{event.name}}: {{event.status}}{% endfor %}
+- {{event.name}}: {{event.attendee_policy}}: {{event.attendee_testing_option}}{% endfor %}
 
 ---
 
