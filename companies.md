@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jab.Wiki | What Brands/Companies are Requiring Employees and Customers to Have Covid Jabs?
+title: Jab.Wiki | What brands & companies are requiring covid jabs?
 description: A community-managed GitHub repository keeping track of the companies requiring covid jabs for employees.
 tags: covid jab vaccine covid-19
 ---
