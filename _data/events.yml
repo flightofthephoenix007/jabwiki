@@ -4,6 +4,12 @@
   details: Please be informed that preventative health measures (e.g. proof of negative COVID-19 test or full COVID-19 vaccination, masks) may be required for this show. 
   last_update: 2022-01-25
 
+- name: "[Coachella](https://coachella.com/rules)"
+  attendee_policy: required 
+  attendee_testing_option: yes
+  details: Current entry policy for Coachella allows for negative PCR clown test taken within 72 hours of the event OR proof of full vaccination.
+  last_update: 2022-01-25
+
 - name: "[Las Vegas Raiders Home Games](https://www.ktnv.com/sports/raiders/las-vegas-raiders-to-require-vaccination-for-all-fans-at-home-games)"
   attendee_policy: required 
   attendee_testing_option: N/A
