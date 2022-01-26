@@ -15,7 +15,7 @@ Go [Home](/). Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href
 ## Events - {{ site.data.events | size }}
 {% assign sorted = site.data.events | sort: 'name' %}
 {% assign attendee_policy_required = site.data.events | where_exp:"item", "item.attendee_policy contains 'required'" | size %}
-{% assign attendee_testing_option = site.data.events | where_exp:"item", "item.attendee_testing_option contains 'true'" | size %}
+{% assign attendee_testing_option = site.data.events | where_exp:"item", "item.attendee_testing_option contains 'yes'" | size %}
 {% assign details = site.data.events | where_exp:"item", "item.details" | size %}
 
 ---
@@ -27,8 +27,7 @@ Go [Home](/). Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href
 
 | Event | Attendee Jab Policy | Option for PCR Clown Test | Details | Last Update |
 | --- | --- | --- | --- | --- |
-{% for event in sorted %}| {{event.name}} | {{event.attendee_policy}} | {{event.attendee_testing_option}} | {{event.details}} | {{event.last_update}} |
-{% endfor %}
+{% for event in sorted %}| {{event.name}} | {{event.attendee_policy}} | {{event.attendee_testing_option}} | {{event.details}} | {{event.last_update}}
 
 ---
 
