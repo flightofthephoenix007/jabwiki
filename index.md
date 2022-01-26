@@ -1,7 +1,13 @@
 # Who's requiring COVID-19 vaccines?
 
-## Updated 2022-01-22 - still a work in progress
-This is the running list of the companies, events, and universities requiring covid jabs. Pull requests gratefully accepted, especially around design or data formatting or correctness. If you are a journalist and would like to speak to someone about the list, email flightofthephoenix@protonmail.com. <a href="https://github.com/flightofthephoenix007/jabwiki.github.io/blob/main/README.md">Instructions for contributing are here</a>.
+## Updated 2022-01-25 - still a work in progress
+This is the running list of the companies, events, and universities requiring covid jabs. 
+
+This site was created after discovering my former-favorite shoe brand, Vans, was practicing medical tyrrany, requiring their employees to get it.  What other brands are doing this? This is where we will keep the live, running list. 
+
+Pull requests gratefully accepted, especially around design or data formatting or correctness. 
+
+If you are a journalist and would like to speak to someone about the list, email flightofthephoenix@protonmail.com. <a href="https://github.com/flightofthephoenix007/jabwiki.github.io/blob/main/README.md">Instructions for contributing are here</a>.
 
 ---
 
