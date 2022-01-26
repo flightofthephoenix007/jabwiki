@@ -21,8 +21,8 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 {% assign employee_policy_required = site.data.companies | where_exp:"item", "item.employee_policy contains 'Required'" | size %}
 {% assign customer_policy_required = site.data.companies | where_exp:"item", "item.customer_policy contains 'Required'" | size %}
 
-*Companies requiring Covid-19 jab for employees: **{{ employee_policy_required}}***
-*Companies requiring Covid-19 jab for customers: **{{ customer_policy_required}}***
+  *Companies requiring Covid-19 jab for employees: **{{employee_policy_required}}***
+  *Companies requiring Covid-19 jab for customers: **{{customer_policy_required}}***
 
 ### [See full list of companies](/companies.html)
 
@@ -37,8 +37,8 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 
 ## [Events - {{ site.data.events | size }}](/events.html)
 
-*Events requiring Covid jab: **{{attendee_policy}}***
-*Events giving option for PCR clown test: **{{attendee_testing_option}}***
+  *Events requiring Covid jab: **{{attendee_policy}}***
+  *Events giving option for PCR clown test: **{{attendee_testing_option}}***
 
 ### [See full list of events](/events.html)
 
@@ -50,7 +50,7 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 
 {% assign statuses = "" | split: "" %}
 {% for university in site.data.universities %}
-    {% assign status = university[1].status | downcase %}
+    {% assign status = university.status | downcase %}
     {% assign statuses = statuses | push: status %}
 {% endfor %}
 {% assign jabtolearn_count = statuses | where_exp:"status", "status contains 'Required'" | size %}

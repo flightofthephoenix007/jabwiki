@@ -10,18 +10,24 @@ Go [Home](/). Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href
 
 ## Universities -- {{ site.data.universities | size }}
 
-{% assign statuses = "" | split: "" %}
-{% for university in site.data.universities %}
-    {% assign status = university[1].status | downcase %}
-    {% assign statuses = statuses | push: status %}
-{% endfor %}
-{% assign jabtolearn_count = statuses | where_exp:"status", "status contains 'jabtolearn'" | size %}
-*Universities requiring jab for students: **{{jabtolearn_count}}***
+{% assign sorted = site.data.university | sort: 'name' %}
+{% assign student_policy_required = site.data.university | where_exp:"item", "item.student_policy contains 'required'" | size %}
+{% assign professor_policy_required = site.data.university | where_exp:"item", "item.professor_policy contains 'required'" | size %}
+{% assign university_testing_option = site.data.university | where_exp:"item", "item.university_testing_option contains 'yes'" | size %}
+{% assign details = site.data.university | where_exp:"item", "item.details" | size %}
 
-{% for university_hash in site.data.universities -%}
-{% assign university = university_hash[1] %}
-- {{university.name}}: {{university.status}} (Last update: {{university.last_update}})
-{%- endfor %}
+---
+
+  *Universities requiring jab for students: **{{student_policy_required}}***
+  *Universities requiring jab for professors: **{{professor_policy_required}}***
+  *Universities giving option for PCR clown test: **{{university_testing_option}}***
+  
+--- 
+
+| University | Student Jab Policy | Professor Jab Policy | Option for PCR Clown Test | Details | Last Update |
+| --- | --- | --- | --- | --- | --- |
+{% for university in sorted %}| {{university.name}} | {{university.student_policy}} | {{university.professor_policy}} |{{university.university_testing_option}} | {{university.details}} | {{university.last_update}} |
+{% endfor %}
 
 ---
 
