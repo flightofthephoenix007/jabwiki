@@ -16,9 +16,7 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 ---
 
 <a name="companies"></a>
-
 ## [Companies -- {{ site.data.companies | size }}](/companies.html)
-
 {% assign sorted = site.data.companies | sort: 'name' %}
 {% assign employee_policy_required = site.data.companies | where_exp:"item", "item.employee_policy contains 'Required'" | size %}
 {% assign customer_policy_required = site.data.companies | where_exp:"item", "item.customer_policy contains 'Required'" | size %}
@@ -28,9 +26,7 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 ---
 
 <a name="events"></a>
-
 ## [Events -- {{ site.data.events | size }}](/events.html)
-
 {% assign sorted = site.data.events | sort: 'name' %}
 {% assign attendee_policy_required = site.data.events | where_exp:"item", "item.attendee_policy contains 'required'" | size %}
 {% assign attendee_testing_option = site.data.events | where_exp:"item", "item.attendee_policy contains 'true'" | size %}
@@ -42,9 +38,7 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 ---
 
 <a name="universities"></a>
-
 ## [Universities -- {{ site.data.universities | size }}](/universities.html)
-
 {% assign sorted = site.data.universities | sort: 'name' %}
 {% assign student_policy_required = site.data.universities | where_exp:"item", "item.student_policy contains 'required'" | size %}
 {% assign professor_policy_required = site.data.universities | where_exp:"item", "item.professor_policy contains 'required'" | size %}
