@@ -29,13 +29,16 @@ Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href="/events.html
 ---
 
 <a name="events"></a>
-{% assign jabtoplay_count = site.data.events | where_exp:"item", "item.status contains 'Required'" | size %}
-{% assign testtoplay_count = site.data.events | where_exp:"item", "item.status contains 'Test'" | size %}
+## Events - {{ site.data.events | size }}
+{% assign sorted = site.data.events | sort: 'name' %}
+{% assign attendee_policy_required = site.data.events | where_exp:"item", "item.attendee_policy contains 'required'" | size %}
+{% assign attendee_testing_option = site.data.events | where_exp:"item", "item.attendee_policy contains 'yes'" | size %}
+{% assign details = site.data.events | where_exp:"item", "item.details" | size %}
 
 ## [Events - {{ site.data.events | size }}](/events.html)
 
-*Events requiring Covid jab: **{{jabtoplay_count}}***
-*Events requiring Covid test: **{{testtoplay_count}}***
+*Events requiring Covid jab: **{{attendee_policy}}***
+*Events giving option for PCR clown test: **{{attendee_testing_option}}***
 
 ### [See full list of events](/events.html)
 
