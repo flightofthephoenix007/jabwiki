@@ -18,9 +18,9 @@ Go [Home](/). Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href
 ## Universities -- {{ site.data.universities | size }}
 
 {% assign sorted = site.data.universities | sort: 'name' %}
-{% assign student_policy_required = site.data.universities | where_exp:"item", "item.student_policy contains 'required'" | size %}
-{% assign professor_policy_required = site.data.universities | where_exp:"item", "item.professor_policy contains 'required'" | size %}
-{% assign university_testing_option = site.data.universities | where_exp:"item", "item.university_testing_option contains 'yes'" | size %}
+{% assign student_policy_required = site.data.universities | where_exp:"item", "item.student_policy contains 'Required'" | size %}
+{% assign professor_policy_required = site.data.universities | where_exp:"item", "item.professor_policy contains 'Required'" | size %}
+{% assign university_testing_option = site.data.universities | where_exp:"item", "item.university_testing_option contains 'Optional'" | size %}
 {% assign details = site.data.universities | where_exp:"item", "item.details" | size %}
 
 ---

@@ -14,8 +14,8 @@ Go [Home](/). Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href
 <a name="events"></a>
 ## Events - {{ site.data.events | size }}
 {% assign sorted = site.data.events | sort: 'name' %}
-{% assign attendee_policy_required = site.data.events | where_exp:"item", "item.attendee_policy contains 'required'" | size %}
-{% assign attendee_testing_option = site.data.events | where_exp:"item", "item.attendee_testing contains 'optional'" | size %}
+{% assign attendee_policy_required = site.data.events | where_exp:"item", "item.attendee_policy contains 'Required'" | size %}
+{% assign attendee_testing_option = site.data.events | where_exp:"item", "item.attendee_testing contains 'Optional'" | size %}
 {% assign details = site.data.events | where_exp:"item", "item.details" | size %}
 
 ---

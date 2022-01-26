@@ -1,23 +1,23 @@
 - name: "[Bonnaroo](https://support.bonnaroo.com/hc/en-us/articles/4404955052564-Covid-19-Health-Policy-Bonnaroo-Entry-Requirements-)"
-  attendee_policy: required 
-  attendee_testing_option: optional
+  attendee_policy: Required 
+  attendee_testing_option: Optional
   details: Please be informed that preventative health measures (e.g. proof of negative COVID-19 test or full COVID-19 vaccination, masks) may be required for this show. 
   last_update: 2022-01-25
 
 - name: "[Coachella](https://coachella.com/rules)"
-  attendee_policy: required 
-  attendee_testing_option: optional
+  attendee_policy: Required 
+  attendee_testing_option: Optional
   details: Current entry policy for Coachella allows for negative PCR clown test taken within 72 hours of the event OR proof of full vaccination.
   last_update: 2022-01-25
 
 - name: "[Las Vegas Raiders Home Games](https://www.ktnv.com/sports/raiders/las-vegas-raiders-to-require-vaccination-for-all-fans-at-home-games)"
-  attendee_policy: required 
+  attendee_policy: Required 
   attendee_testing: N/A
   details: The Las Vegas Raiders will require all attendees at home games to show proof of COVID-19 vaccination through CLEAR’s free mobile app and Health Pass feature.
   last_update: 2022-01-25
 
 - name: "[New York Rangers Home Games](https://www.msg.com/calendar/madison-square-garden-january-2022-new-york-rangers-vs-minnesota-wild/3B005AEDD2AE1B5A)"
-  attendee_policy: required 
+  attendee_policy: Required 
   attendee_testing: N/A
   details: All guests age 12 and older need to provide proof they have received either two doses of a two-shot COVID-19 vaccination, or one dose of a single-shot vaccine. Children ages 5 to 11 are required to provide proof they have received at least one dose of a COVID-19 vaccine
   last_update: 2022-01-25
