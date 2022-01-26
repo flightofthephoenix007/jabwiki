@@ -6,7 +6,7 @@
 
 - name: "[Coachella](https://coachella.com/rules)"
   attendee_policy: required 
-  attendee_testing_option: yes
+  attendee_testing_option: 'yes'
   details: Current entry policy for Coachella allows for negative PCR clown test taken within 72 hours of the event OR proof of full vaccination.
   last_update: 2022-01-25
 
