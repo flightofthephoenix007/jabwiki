@@ -1,3 +1,10 @@
+---
+layout: default
+title: Jab.Wiki | Who is requiring covid jabs?
+description: A community-managed GitHub repository keeping track of the brands/companies, events, and universities requiring covid jabs. 
+tags: covid jab vaccine covid-19
+---
+
 # Who's requiring COVID-19 vaccines?
 
 ## Updated 2022-01-25 - still a work in progress

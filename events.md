@@ -1,3 +1,9 @@
+---
+layout: default
+title: Jab.Wiki | Which Events Are Requiring Covid Jabs?
+description: A community-managed GitHub repository keeping track of the events requiring covid jabs for attendees. 
+tags: covid jab vaccine covid-19
+---
 # What events/music festivals are requiring the COVID-19 jab to attend?
 
 ---

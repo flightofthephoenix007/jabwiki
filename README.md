@@ -1,3 +1,9 @@
+---
+layout: default
+title: Jab.Wiki | README
+description: A community-managed GitHub repository keeping track of the companies, events, and universities requiring Covid jabs.
+tags: covid jab vaccine covid-19
+---
 # Who's requiring COVID-19 jabs?
 
 This is a running list of companies that are requiring their employees to get Covid-19 jabs. Pull requests gratefully accepted, especially

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Jab.Wiki | Which Universities Are Requiring Covid Jabs?
+description: A community-managed GitHub repository keeping track of the universities requiring covid jabs for students and faculty. 
+tags: covid jab vaccine covid-19
+---
+
 # What universities are requiring the COVID-19 jab for students?
 
 ---
