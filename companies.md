@@ -9,8 +9,8 @@ Go [Home](/). Jump to: <a href="/events.html">Events</a>. Jump to: <a href="/uni
 <a name="companies"></a>
 ## Companies - {{ site.data.companies | size }}
 {% assign sorted = site.data.companies | sort: 'name' %}
-{% assign employee_policy_required = site.data.companies | where_exp:"item", "item.employee_policy contains 'Required'" | size %}
-{% assign customer_policy_required = site.data.companies | where_exp:"item", "item.customer_policy contains 'Required'" | size %}
+{% assign employee_policy_required = site.data.companies | where_exp:"item", "item.employee_policy contains 'required'" | size %}
+{% assign customer_policy_required = site.data.companies | where_exp:"item", "item.customer_policy contains 'required'" | size %}
 
 *Covid vaccine required for employees: **{{ employee_policy_required}}***
 *Covid vaccine required for customers: **{{ customer_policy_required }}***
