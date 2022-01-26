@@ -16,7 +16,7 @@ Go [Home](/). Jump to: <a href="/events.html">Events</a>. Jump to: <a href="/uni
 
 | Company | Employee Policy | Customer Policy | Last Update |
 | --- | --- | --- | --- |
-{% for company in sorted %}| {{company[1].name}} | {{company[1].employee_policy}} | {{company[1].customer_policy}} | {{company.last_update}} |
+{% for company in sorted %}| {{company.name}} | {{company.employee_policy}} | {{company.customer_policy}} | {{company.last_update}} |
 {% endfor %}
 
 ---
