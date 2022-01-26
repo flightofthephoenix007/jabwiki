@@ -14,7 +14,8 @@ Go [Home](/). Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href
 
 ---
 
-*Events requiring Covid jab: **{{attendee_policy_required}}** 
+  *Events requiring Covid jab: **{{attendee_policy_required}}** 
+  *Events giving option for PCR clown test: **{{attendee_testing_option}}**
 
 --- 
 
