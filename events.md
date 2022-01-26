@@ -12,11 +12,8 @@ Go [Home](/). Jump to: <a href="/companies.html">Companies</a>. Jump to: <a href
 {% assign attendee_testing_option = site.data.events | where_exp:"item", "item.attendee_policy contains 'yes'" | size %}
 {% assign details = site.data.events | where_exp:"item", "item.details" | size %}
 
-*Events requiring Covid jab: **{{attendee_policy_required}}***
+*Events requiring Covid jab: **{{attendee_policy_required}}**
 *Events requiring Covid test: **{{attendee_testing_option}}***
-
-{% for event in site.data.events %}
-- {{event.name}}: {{event.attendee_policy}}: {{event.attendee_testing_option}}: {{event.details}} {% endfor %}
 
 --- 
 
